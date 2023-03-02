@@ -1,0 +1,8 @@
+# Top-most EditorConfig file
+root = true
+
+# encode
+[*.{cs,h,cpp,}]
+charset = utf-8-bom
+# UTF-8(BOM付き)を利用したい場合は以下
+# charset = utf-8-bom
